@@ -4,3 +4,6 @@
 [submodule "VRTK-Review"]
 	path = VRTK-Review
 	url = https://github.com/BlackDilvish-WFiIS/VRTK-Review
+[submodule "VRBuilderReview"]
+	path = VRBuilderReview
+	url = https://github.com/BlackDilvish-WFiIS/VRBuilderReview
