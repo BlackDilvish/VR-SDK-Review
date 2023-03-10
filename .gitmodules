@@ -16,3 +16,6 @@
 [submodule "ImmerseSDKReview"]
 	path = ImmerseSDKReview
 	url = https://github.com/BlackDilvish-WFiIS/ImmerseSDKReview
+[submodule "MRTK-Review"]
+	path = MRTK-Review
+	url = https://github.com/BlackDilvish-WFiIS/MRTK-Review
