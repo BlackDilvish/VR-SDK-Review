@@ -13,3 +13,6 @@
 [submodule "QuickVRReview"]
 	path = QuickVRReview
 	url = https://github.com/BlackDilvish-WFiIS/QuickVRReview
+[submodule "ImmerseSDKReview"]
+	path = ImmerseSDKReview
+	url = https://github.com/BlackDilvish-WFiIS/ImmerseSDKReview
