@@ -1,3 +1,6 @@
 [submodule "XRInteractionToolkitReview"]
 	path = XRInteractionToolkitReview
 	url = https://github.com/BlackDilvish-WFiIS/XRInteractionToolkitReview
+[submodule "VRTK-Review"]
+	path = VRTK-Review
+	url = https://github.com/BlackDilvish-WFiIS/VRTK-Review
