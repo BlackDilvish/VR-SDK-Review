@@ -10,3 +10,6 @@
 [submodule "OculusInteractionSDKReview"]
 	path = OculusInteractionSDKReview
 	url = https://github.com/BlackDilvish-WFiIS/OculusInteractionSDKReview
+[submodule "QuickVRReview"]
+	path = QuickVRReview
+	url = https://github.com/BlackDilvish-WFiIS/QuickVRReview
